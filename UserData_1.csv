@@ -1,0 +1,11 @@
+Gender,Age,RS,amusement_park,night_club,cafes,museum,shopping_mall,park,church,hindu_temple,art_gallery,casino,library,zoo
+M,27,Not Married,1,1,1,0,0,0,0,0,0,0,0,0
+F,34,Married,1,0,0,1,1,1,0,0,0,0,0,0
+M,59,Married,0,0,0,0,0,0,1,1,1,0,0,0
+M,19,Not Married,1,1,1,0,0,0,0,0,0,1,0,0
+F,67,Married,0,0,0,0,1,1,0,1,0,0,1,0
+F,55,Not Married,0,0,0,0,1,0,0,0,1,1,0,0
+M,43,Married,0,0,0,0,0,0,0,1,0,1,0,1
+F,15,Not Married,1,0,1,1,0,0,0,0,0,0,1,0
+F,22,Not Married,1,1,1,0,1,0,0,0,0,0,1,0
+M,70,Married,0,0,0,0,0,1,1,1,0,0,0,0
